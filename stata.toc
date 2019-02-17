@@ -1,7 +1,7 @@
-v 0.0.0
-d Materials by João Pedro Azevedo
-d World Bank
-d jazevedo@worldbank.org
-d http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo
+v 1.0.8
+d Materials by Christopher F Baum and João Pedro Azevedo
+d 
+d 
+d 
  
 p outtable

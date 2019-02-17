@@ -1,7 +1,7 @@
-v 0.0.0
-d 'OUTTABLE' 
+v 1.0.8
+d 'OUTTABLE': Stata module to write matrix to LaTeX table
 d 
-d Distribution-Date: 
+d Distribution-Date: 03 August 2014
 d License: MIT
 d 
 F src/o/outtable.ado
