@@ -27,7 +27,10 @@ data handling; LaTeX; matrices
 
 ## Authors: 
 
-  **Christopher F Baum **  
+  **Christopher F Baum**  
 
   **João Pedro Azevedo**  
+  [jazevedo@worldbank.org](mailto:jazevedo@worldbank.org)  
+  World Bank  
+  [personal page](http://www.worldbank.org/en/about/people/j/joao-pedro-azevedo)  
 
