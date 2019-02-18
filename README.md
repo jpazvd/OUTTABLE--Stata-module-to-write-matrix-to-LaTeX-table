@@ -1,4 +1,4 @@
-# OUTTABLE: Stata module to write matrix to LaTeX table
+﻿# OUTTABLE: Stata module to write matrix to LaTeX table
 
 ## Description
 
@@ -23,3 +23,11 @@ This module may be installed from within Stata by typing "ssc install outtable".
 
 ### Keywords
 data handling; LaTeX; matrices
+
+
+## Authors: 
+
+  **Christopher F Baum **  
+
+  **João Pedro Azevedo**  
+
